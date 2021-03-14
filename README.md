@@ -74,46 +74,18 @@ end
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham14p3&repo=phaser-shooting-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/shubham14p3/shubham14p3/master/linkedin-3-16.png (LinkedIn icon without padding)
-<br>
-
-
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
-🌆 Daytime    183 commits    ███████░░░░░░░░░░░░░░░░░░   30.96% 
-🌃 Evening    294 commits    ██████████░░░░░░░░░░░░░░░   15.91%
-🌙 Night      617 commits    █████████████████░░░░░░░░   36.72% 
+🌞 Morning    56+ commits     ████░░░░░░░░░░░░░░░░░░░░░    
+🌆 Daytime    183+ commits    ███████░░░░░░░░░░░░░░░░░░    
+🌃 Evening    294+ commits    ██████████░░░░░░░░░░░░░░░   
+🌙 Night      617+ commits    █████████████████░░░░░░░░  
 
 ```
 
-**I Mostly Code in Vim Text Editor** 
-
-```text
-Ruby          12 repos            ██████████░░░░░░░░░░░░░░░░░░░░░    70.59% 
-Ruby on Rails 16 repos            ████████████████░░░░░░░░░░░░░░░    11.76% 
-JavaScript    21 repos            ████████████████████████░░░░░░░    5.88%
-React/Redux   7  repos            █████░░░░░░░░░░░░░░░░░░░░░░░░░░    5.88%
-Node/Express  13 repos            ███████████░░░░░░░░░░░░░░░░░░░░    5.88% 
-CSS/SASS      14 repos            █████████████░░░░░░░░░░░░░░░░░░    5.88% 
-HTML          9  repos            ███████░░░░░░░░░░░░░░░░░░░░░░░░    5.88% 
-```
-
-
+**I Mostly Code in VS Code Editor** 
 
 
 <p align="center">
@@ -125,7 +97,7 @@ HTML          9  repos            ███████░░░░░░░░�
     <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
+    <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
@@ -133,7 +105,6 @@ HTML          9  repos            ███████░░░░░░░░�
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Webpack" alt="Webpack" height=40 src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
