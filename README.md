@@ -1,22 +1,21 @@
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shubham Raj and I'm a software developer. I'm from India, living in Jamshedpur and currently working as freelancer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Shubham Raj and I'm a software developer. I'm from India, living in Jamshedpur and currently working as freelancer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-### Extras...  
+### Extras...
 
 ```javascript
 def about_me
   shubham_raj = {
     scanningFor: "Front-End web developer" || "Back-end developer " || "Full-Stack Developer",
-    due_challenges: "Diving into GraphQL and AWS",  
+    due_challenges: "Diving into GraphQL and AWS",
     iLove: ["Tech Related News, Space Docs, Learning, Cooking],
     funFacts: [
-      '👨‍💻 I have 2.5 year of remote dev experience',  
+      '👨‍💻 I have 2.5 year of remote dev experience',
       '👯 Volleyball player, Hill climber, Marathoner and an adventurer',
-      '🔭 I’m currently working on strengthing my backend :wink:' 
+      '🔭 I’m currently working on strengthing my backend :wink:'
       '🌱 I have a crush on ML/AI Tech.',
-      '🤝 I am a believer ', 
+      '🤝 I am a believer ',
       '⚡ I recharge myself on saturday and sunday'
      ]
   }
@@ -24,6 +23,7 @@ end
 ```
 
 ## 🔧 Technologies & Tools
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -53,6 +53,7 @@ end
 </p>)
 
 ## &#x1f4c8; GitHub Stats
+
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
@@ -69,24 +70,23 @@ end
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/shubham14p3/phaser-shooting-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham14p3&repo=phaser-shooting-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    56+ commits     ████░░░░░░░░░░░░░░░░░░░░░    
-🌆 Daytime    183+ commits    ███████░░░░░░░░░░░░░░░░░░    
-🌃 Evening    294+ commits    ██████████░░░░░░░░░░░░░░░   
-🌙 Night      617+ commits    █████████████████░░░░░░░░  
+🌞 Morning    56+ commits     ████░░░░░░░░░░░░░░░░░░░░░
+🌆 Daytime    183+ commits    ███████░░░░░░░░░░░░░░░░░░
+🌃 Evening    294+ commits    ██████████░░░░░░░░░░░░░░░
+🌙 Night      617+ commits    █████████████████░░░░░░░░
 
 ```
 
-**I Mostly Code in VS Code Editor** 
-
+**I Mostly Code in VS Code Editor**
 
 <p align="center">
   <span align="center" class="d-flex">
@@ -114,7 +114,6 @@ end
 [1]: https://twitter.com/@shubham14p3
 [2]: https://github.com/shubham14p3
 [3]: https://www.linkedin.com/in/shubham14p3/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
