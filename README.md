@@ -22,7 +22,7 @@ def about_me
 end
 ```
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools 🧑‍💻
 
 <h3>Things I code with</h3>
 <p>
@@ -108,9 +108,7 @@ end
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
-
 <!-- links to your social media accounts -->
-
 [1]: https://twitter.com/@shubham14p3
 [2]: https://github.com/shubham14p3
 [3]: https://www.linkedin.com/in/shubham14p3/
