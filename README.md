@@ -61,10 +61,12 @@ end
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=shubham14p3&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubham14p3&hide=css,java,html&theme=tokyonight">
+ 
 </p>
 
 </details>
+
+
 
 <!--START_SECTION:waka-->
 
@@ -100,8 +102,17 @@ end
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
+
 <!-- links to your social media accounts -->
+
 [1]: https://twitter.com/@shubham14p3
 [2]: https://github.com/shubham14p3
 [3]: https://www.linkedin.com/in/shubham14p3/
 
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
