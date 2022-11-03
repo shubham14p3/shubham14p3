@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shubham Raj and I'm a software developer. I'm from India, living in Jamshedpur and currently working as freelancer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Shubham Raj and I'm a software developer. I'm from India, living in Jamshedpur and currently working at  Capgemini as Consultant. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ### Extras...
 
