@@ -11,7 +11,7 @@ def about_me
     due_challenges: "Diving into GraphQL and AWS",
     iLove: ["Tech Related News, Space Docs, Learning, Cooking],
     funFacts: [
-      '👨‍💻 I have 2.5 year of remote dev experience',
+      '👨‍💻 I have 4.8 year of remote dev experience',
       '👯 Volleyball player, Hill climber, Marathoner and an adventurer',
       '🔭 I’m currently working on strengthing my backend :wink:'
       '🌱 I have a crush on ML/AI Tech.',
