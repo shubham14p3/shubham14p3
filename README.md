@@ -1,118 +1,120 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Shubham Raj
 
-My name is Shubham Raj and I'm a software developer. I'm from India, living in Jamshedpur and currently working at  Capgemini as Consultant. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
-### Extras...
+## About Me
 
+Hi, I'm Shubham Raj, a Software Developer from India, currently living in Jamshedpur and working at **Infosys**. You can connect with me on [Twitter](https://twitter.com/@shubham14p3), [GitHub](https://github.com/shubham14p3), or [LinkedIn](https://www.linkedin.com/in/shubham14p3/).
+
+### Quick Overview
 ```javascript
-def about_me
-  shubham_raj = {
-    scanningFor: "Front-End web developer" || "Back-end developer " || "Full-Stack Developer",
-    due_challenges: "Diving into GraphQL and AWS",
-    iLove: ["Tech Related News, Space Docs, Learning, Cooking],
-    funFacts: [
-      '👨‍💻 I have 4.8 year of remote dev experience',
-      '👯 Volleyball player, Hill climber, Marathoner and an adventurer',
-      '🔭 I’m currently working on strengthing my backend :wink:'
-      '🌱 I have a crush on ML/AI Tech.',
-      '🤝 I am a believer ',
-      '⚡ I recharge myself on saturday and sunday'
-     ]
-  }
-end
+const aboutMe = {
+  scanningFor: ["Front-End Developer", "Back-End Developer", "Full-Stack Developer"],
+  challenges: ["GraphQL", "AWS"],
+  hobbies: ["Tech News", "Space Docs", "Learning", "Cooking"],
+  funFacts: [
+    "👨‍💻 5+ years of development experience",
+    "👯 Volleyball player, hill climber, and adventurer",
+    "🔭 Passionate about strengthening my backend skills",
+    "🌱 Enthusiastic about ML/AI",
+    "🤝 Believer in teamwork",
+    "⚡ Recharge over weekends"
+  ]
+};
 ```
 
-## 🔧 Technologies & Tools 🧑‍💻
+## Technologies & Tools
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-46a2f1?style=flat-square&logo=ruby&logoColor=white" />
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Rails-46a2f1?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-311C87?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="SQlite" src="https://img.shields.io/badge/-SQlite-311C87?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Vim" src="https://img.shields.io/badge/-Vim-DD0031?style=flat-square&logo=vim&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-43853d?style=flat-square&logo=Jest&logoColor=white" />
-</p>)
+### Front-End
+- **JavaScript**, **React.js**, **Redux**, **Next.js**, **HTML5**, **CSS3**, **Bootstrap**, **SASS**, **JSX**
 
-## &#x1f4c8; GitHub Stats
+### Back-End
+- **Node.js**, **MongoDB**
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+### Tools & Platforms
+- **Git**, **Heroku**, **Netlify**, **Firebase**, **AWS**, **Google Cloud**, **Azure**, **CI/CD**, **DigitalOcean**, **GitHub**, **GitLab**, **Jira**, **Atlassian Bitbucket**
 
-<br>
+---
 
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=shubham14p3&show_icons=true&theme=tokyonight&line_height=27">
- 
-</p>
+## Profile
 
-</details>
+I am an experienced React Developer with hands-on expertise in designing and deploying highly responsive user interfaces. My proficiency lies in translating wireframes into high-quality code and building applications using React.js and JavaScript workflows. I excel at improving front-end performance by testing and debugging code, ensuring maximum client satisfaction. My adaptability and dedication help me consistently meet and exceed project deadlines.
 
+---
 
+## Experience
 
-<!--START_SECTION:waka-->
+### Consultant
+**Infosys, Bangalore** (June 2022 – Present)
+- Collaborated with teams to deliver robust financial solutions for major clients.
+- Designed and optimized over 50+ user-facing features using React.js and front-end libraries.
+- Developed and tested reusable components, achieving a 35% increase in loading speed.
+- Converted 30+ components to High-Order Components (HOCs) for better reusability.
 
-**I'm a Night 🦉**
+### Associate Consultant
+**Capgemini, Kolkata** (May 2021 – May 2022)
+- Worked on the Financial Services domain for Abu Dhabi Bank.
+- Built responsive UIs using React.js, TypeScript, and libraries like Material-UI and Formik.
+- Wrote test cases and fixed bugs to improve application stability.
+- Coordinated with backend, QA, and design teams to ensure project success.
 
-```text
-🌞 Morning    56+ commits     ████░░░░░░░░░░░░░░░░░░░░░
-🌆 Daytime    183+ commits    ███████░░░░░░░░░░░░░░░░░░
-🌃 Evening    294+ commits    ██████████░░░░░░░░░░░░░░░
-🌙 Night      617+ commits    █████████████████░░░░░░░░
+### Software Developer
+**Gammastack, Indore** (May 2020 – August 2020)
+- Developed 3+ front-end applications to analyze and process client data.
+- Created responsive global UI components with React.js and Next.js.
+- Worked closely with product managers and QA to align development with client requirements.
 
-```
+### Trainee (Tester)
+**Nagravision India Pvt. Ltd., Bangalore** (July 2018 – July 2019)
+- Increased test coverage from 15% to 85% by creating 350+ test cases.
+- Automated testing workflows in Jenkins using JavaScript.
+- Collaborated with developers to define appropriate testing strategies.
 
-**I Mostly Code in VS Code Editor**
+---
 
-<p align="center">
-  <span align="center" class="d-flex">
-    <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
-    <img title="CSS" alt="CSS" height=40
-      src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
-    <img title="Ruby" alt="Ruby" height=40 src="https://blog.mwpreston.net/wp-content/uploads/2018/09/ruby-logo.png">
-    <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
-    <img title="JavaScript" alt="JavaScript" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-    <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
-    <img title="SQL" alt="SQL" height=40
-      src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
-    <img title="Bootstrap" alt="Bootstrap" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
-    <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
-    <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-  </span>
-</p>
+## Education
 
-<!-- links to your social media accounts -->
+### Microverse (Remote)
+- Full Stack Web Development Program (2020 - 2021)
+- Mastered algorithms, data structures, and full-stack development with JavaScript, React, and Redux.
+- Engaged in remote pair-programming and international team collaborations.
 
-[1]: https://twitter.com/@shubham14p3
-[2]: https://github.com/shubham14p3
-[3]: https://www.linkedin.com/in/shubham14p3/
+### Bhilai Institute of Technology
+- Bachelor of Engineering in Computer Science (2014 - 2018)
+- Focused on software development with a passion for building scalable solutions.
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+---
+
+## Certifications
+- **Full Stack JavaScript Developer Training** from iUpSkill (Capgemini).
+- **MongoDB Basics** from MongoDB.
+- **ISTQB Certified Tester** from ISTQB.
+
+---
+
+## Skills
+- **Analytical Thinking**
+- **Project Management**
+- **Curiosity for Learning**
+- **Creativity**
+- **Patience**
+
+---
+
+## Contact Information
+- **Phone**: +91 8092766575
+- **Email**: shubham14p3@gmail.com
+- **Portfolio**: [shubhamraj.dev](https://shubhamraj.dev)
+
+---
+
+## Personal Info
+- **Hobbies**: Playing cricket, exploring tech news, and cooking.
+- **Address**: H. No-21, Radha Kunj, Jyoti Nagar, Radhika Nagar, Kharangajhar, Telco, Jamshedpur, Jharkhand, India – 831004
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham14p3&show_icons=true&theme=tokyonight&line_height=27)
+
