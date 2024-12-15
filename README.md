@@ -23,6 +23,7 @@ end
 ```
 
 ## 🔧 Technologies & Tools 🧑‍💻
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -50,17 +51,27 @@ end
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-43853d?style=flat-square&logo=Jest&logoColor=white" />
 </p>)
+
 ## &#x1f4c8; GitHub Stats
+
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
+
 <br>
+
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=shubham14p3&show_icons=true&theme=tokyonight&line_height=27">
  
 </p>
+
 </details>
+
+
+
 <!--START_SECTION:waka-->
+
 **I'm a Night 🦉**
+
 ```text
 🌞 Morning    56+ commits     ████░░░░░░░░░░░░░░░░░░░░░
 🌆 Daytime    183+ commits    ███████░░░░░░░░░░░░░░░░░░
@@ -70,6 +81,7 @@ end
 ```
 
 **I Mostly Code in VS Code Editor**
+
 <p align="center">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
@@ -90,10 +102,13 @@ end
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
+
 <!-- links to your social media accounts -->
+
 [1]: https://twitter.com/@shubham14p3
 [2]: https://github.com/shubham14p3
 [3]: https://www.linkedin.com/in/shubham14p3/
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
