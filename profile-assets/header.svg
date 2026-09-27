@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Shubham Raj — building clarity into complex systems</title>
+  <desc id="desc">A dark indigo banner with violet and coral orbital lines framing Shubham's name and engineering focus.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#141b37"/>
+      <stop offset=".58" stop-color="#252f62"/>
+      <stop offset="1" stop-color="#321e55"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2=".3">
+      <stop stop-color="#81d9ff"/>
+      <stop offset=".5" stop-color="#c2a8ff"/>
+      <stop offset="1" stop-color="#ffae9a"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1000" height="250" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="250" fill="url(#background)"/>
+    <circle cx="828" cy="126" r="152" fill="none" stroke="#a2a9ff" stroke-opacity=".28" stroke-width="2"/>
+    <circle cx="828" cy="126" r="111" fill="none" stroke="#b4e7ff" stroke-opacity=".36" stroke-width="2"/>
+    <circle cx="828" cy="126" r="70" fill="none" stroke="#ffa693" stroke-opacity=".46" stroke-width="2"/>
+    <path d="M620 202c80-56 175-69 340-164M646 38c93 60 190 85 300 172" fill="none" stroke="#aabbff" stroke-opacity=".14" stroke-width="2"/>
+    <circle cx="731" cy="36" r="6" fill="#81d9ff"/><circle cx="952" cy="46" r="8" fill="#ffae9a"/><circle cx="841" cy="236" r="6" fill="#c2a8ff"/>
+    <text x="49" y="69" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#c7cfff">SOFTWARE ENGINEER  /  MEXICO CITY</text>
+    <text x="45" y="143" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="url(#accent)">SHUBHAM RAJ</text>
+    <text x="50" y="189" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#f0ecff">Frontend architecture  ·  System design  ·  Technical leadership</text>
+    <path d="M50 215h410" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
