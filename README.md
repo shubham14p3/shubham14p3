@@ -110,7 +110,8 @@ My [portfolio's education and credentials section](https://shubhamraj.dev/about#
 ## 📈 GitHub activity
 
 <p align="center">
-  <img alt="GitHub activity and contribution statistics for shubham14p3" src="https://github-readme-stats.vercel.app/api?username=shubham14p3&show_icons=true&theme=tokyonight&hide_border=true" width="470" />
+  <a href="https://github.com/shubham14p3?tab=overview"><img alt="View GitHub contributions" src="https://img.shields.io/badge/View_Contributions-2549E8?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/shubham14p3?tab=repositories"><img alt="Explore GitHub repositories" src="https://img.shields.io/badge/Explore_Repositories-6E36D5?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
